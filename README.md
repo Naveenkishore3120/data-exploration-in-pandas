@@ -1,1 +1,1 @@
-# data-exploration-in-pandas
+# data-exploration-using-pandas
